@@ -1,5 +1,5 @@
 module.exports = async function () {
-    return {
+    return JSON.stringify({
         "Woo": "hoo"
-    }
+    })
 };
